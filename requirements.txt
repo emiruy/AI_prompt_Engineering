@@ -5,3 +5,20 @@ langchain-community
 langchain-groq 
 python-dotenv
 langchain-tavily
+streamlit
+fpdf2>=2.7.8
+
+
+ #Web app framework
+streamlit>=1.36.0
+
+
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+python-dotenv>=1.0.1
+fpdf2>=2.7.8
+openai>=1.35.0
+tiktoken>=0.7.0
+fpdf==1.7.2
+fpdf2==2.8.4
